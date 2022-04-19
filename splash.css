@@ -1,6 +1,6 @@
 body {
     background-color: #f9f9fa;
-    background-image: url('background.jpg');
+    background-image: url('NewQsonTech.png');
 }
 
 .flex {
@@ -8,7 +8,9 @@ body {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto
 }
-    .loader {
+
+
+   .loader {
         border: 5px solid rgba(18, 65, 145, 255);
         border-radius: 50%;
         border-top: 5px solid #ffffff;
@@ -22,7 +24,7 @@ body {
         right: 0;
         top: 0px;
         bottom: 0;
-        position: fixed;
+        position: fixed; 
     }
 
     /* Safari */
